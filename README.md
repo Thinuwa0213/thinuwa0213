@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Thinuka
 
-💻 Full Stack Developer (Sri Lanka)
-
 I build POS systems, SaaS dashboards, and business websites using Next.js, Tailwind & APIs.
 
 ---
@@ -12,7 +10,7 @@ Next.js • Tailwind • Node.js • NestJS • MongoDB • MySQL • Laravel (l
 ---
 
 ## 🔧 Projects
-🖥️ POS System • 🌐 Websites • 🤖 Discord Bots
+🤖 Discord Bots
 
 ---
 
